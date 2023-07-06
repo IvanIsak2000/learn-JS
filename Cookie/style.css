@@ -12,27 +12,30 @@
     transform:translate(-50%, -50%);
     color: white;
     display: flex;
-    width: 40rem;
-    height: 10rem;
+    width: 38rem;
+    height: 13rem;
     border-radius: 1rem;
-    padding: 1rem;
+    padding: 5rem 1rem;
     font-family: 'Poppins', sans-serif;
     align-items: center;
     overflow: hidden;
 }
 
 .cookie{
-    padding-right: 1rem;
+    padding-right: 0.5rem;
+    
 }
+
 .cookie-title{
     font-size: 2rem;
     font-weight: lighter;
+    padding: 0.5rem;
 }
 
 .cookie-subtitle{
     font-weight: bold;
     font-size: 1rem;
-    padding: 0.4rem 0rem;
+    padding: 0.5rem;
 }
 
 button{
@@ -42,6 +45,6 @@ button{
     font-family: 'Poppins', sans-serif;
     font-size: 1rem;
     font-weight: bold;
-    border-radius: 0.5rem;
+    border-radius: 0.4rem;
     
 }
